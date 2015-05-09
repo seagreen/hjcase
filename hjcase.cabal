@@ -1,5 +1,5 @@
 name:                   hjcase
-version:                0.1.0.0
+version:                0.2.0.0
 synopsis:               Jcase library for Haskell
 homepage:               https://github.com/seagreen/hjcase
 license:                MIT
